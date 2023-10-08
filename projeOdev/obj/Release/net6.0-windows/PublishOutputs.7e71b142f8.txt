@@ -1,0 +1,7 @@
+C:\csharpyayın\projeOdev.exe
+C:\csharpyayın\projeOdev.dll
+C:\csharpyayın\projeOdev.deps.json
+C:\csharpyayın\projeOdev.runtimeconfig.json
+C:\csharpyayın\projeOdev.pdb
+C:\csharpyayın\Microsoft.Extensions.Logging.Abstractions.dll
+C:\csharpyayın\Npgsql.dll
